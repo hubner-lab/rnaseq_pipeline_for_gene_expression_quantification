@@ -90,7 +90,7 @@ nohup bash [path to rnaseq_pipeline_for_gene_expression_quantification.sh] [path
 for example:
 
 nohup \
-bash /home/roy/rnaseq-pipeline/rnaseq_pipeline_for_gene_expression_quantification.sh \
+bash /home/roy/rnaseq-pipelines/rnaseq_pipeline_for_gene_expression_quantification.sh \
 /home/roy/data/human/LSLNGS2015/GENOME_data \
 /home/roy/data/human/LSLNGS2015/RNASEQ_data \
 10 \
